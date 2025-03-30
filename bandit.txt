@@ -1,31 +1,21 @@
-level0 - ssh bandit0@bandit.labs.overthewire.org -p 2220  | Password :
-bandit0
+level0 - ssh bandit0@bandit.labs.overthewire.org -p 2220  | Password :bandit0
 
 level1 - ssh bandit1@bandit.labs.overthewire.org -p 2220  | password : ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
 
-level2 - ssh bandit2@bandit.labs.overthewire.org -p 2220  | password : 
-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+level2 - ssh bandit2@bandit.labs.overthewire.org -p 2220  | password : 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
-level3 - ssh bandit3@bandit.labs.overthewire.org -p 2220  | password : 
-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+level3 - ssh bandit3@bandit.labs.overthewire.org -p 2220  | password : MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
 
-level4 - ssh bandit4@bandit.labs.overthewire.org -p 2220  | password : 
-2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+level4 - ssh bandit4@bandit.labs.overthewire.org -p 2220  | password : 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
 
-level5 - ssh bandit5@bandit.labs.overthewire.org -p 2220  | password : 
-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+level5 - ssh bandit5@bandit.labs.overthewire.org -p 2220  | password : 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
 
-level6 - ssh bandit6@bandit.labs.overthewire.org -p 2220  | password : 
-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+level6 - ssh bandit6@bandit.labs.overthewire.org -p 2220  | password : HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
 
-level7 - ssh bandit7@bandit.labs.overthewire.org -p 2220  | password : 
-morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+level7 - ssh bandit7@bandit.labs.overthewire.org -p 2220  | password : morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
 
-level8 - ssh bandit8@bandit.labs.overthewire.org -p 2220  | password : 
-dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+level8 - ssh bandit8@bandit.labs.overthewire.org -p 2220  | password : dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
 
-level9 - ssh bandit9@bandit.labs.overthewire.org -p 2220  | password : 
-4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+level9 - ssh bandit9@bandit.labs.overthewire.org -p 2220  | password : 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 
-level10 - ssh bandit10@bandit.labs.overthewire.org -p 2220  | password : 
-FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+level10 - ssh bandit10@bandit.labs.overthewire.org -p 2220  | password : FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
